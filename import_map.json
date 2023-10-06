@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "effect": "https://esm.sh/effect@2.0.0-next.46?target=denonext"
+  }
+}
